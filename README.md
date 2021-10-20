@@ -18,6 +18,8 @@
 
 ​	（2）`npm run dev:wx`
 
+​	（3）将`/node_modules`下的`vant-weapp`文件夹复制到`/dist/wx/`文件夹下
+
 ### 2.	打包构建
 
 ​	（1）`npm build:wx`
